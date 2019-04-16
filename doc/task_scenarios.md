@@ -1,4 +1,5 @@
 //Kelvin -- camera & shake
+
 Persona
 Damian, 19 years old. He's majoring architecture at Carnegie Mellon University. He's keen on traveling at his spare time. Domian has been backpacked acrossed France, Myanmar, Egypt and Morocco in the past two years. He have deep affection for the history of any nation.
 
@@ -21,6 +22,7 @@ Charlie sitting on the school bus on weekdays. He open the app and start the *sh
 
 
 //Jingxin -- popular
+
 Persona
 Andrew, 40 years old, is a manager of a real estate development company. He used to read the newspaper to know the news headlines every morning. With the development of technologies, electronic media replaces the usages of traditional media. There are many trendy terms and knowledge that Andrew did not hear before. He wants to have a quick view of the terms and have some basic knowledge about the present hot topics so that he can keep up with the times and have common topics with his colleagues.
 
