@@ -19,18 +19,7 @@ Applications(Smart home, Transportation, Manufacturing, Agriculture)
 
 # Literature Review (Background)
 **Background**
-* Tier 1: Devices
-* Tier 2: the Edge Gateway
-* Tier 3: the Cloud.
 
-
-**Keywords of IoT**
-* Privacy
-* Autonomy
-* Control
-* Industry 4.0
-* 5G
-* Home automation
 
 **Keywords of Knowledge Graph**
 Ontology
@@ -47,7 +36,7 @@ System Structure(with figure)
 Functionality
 
 
-## Task ans Senarios
+## Task ans Scenarios
 What tasks this system can complete.
 ### Personae
 1. Personae 1
@@ -59,7 +48,7 @@ What tasks this system can complete.
 2. Task 2
 3. Task 3
 
-### Senarios
+### Scenarios
 1. Senario 1
 2. Senario 2
 3. Senario 3
