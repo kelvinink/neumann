@@ -1,0 +1,6 @@
+persona
+Blonca, female, who is 24 years old and has been working for a year. She began to observe plenty of flowers and plants since childhood because her mother raised a lot of flowers. Besides doing some reading in her sporatic time, Blonca also goes for a walk in the park and enjoys the view there.
+task
+After the work during the day, Blonca not particularly wants to read at home. She tends to change the way of reading - reading online, which is more effective than paper reading. But there is no motivation for her to read every day.
+The scenario
+One day Blonca uses the app "knowledge graph" for reading. In the left menu bar, Blonca sees an icon of a rose, and the text showes that there is a "knowledge garden". As usual she is interested in the beautiful things. So click-in, she finds that for every field of knowledge that she looked up ever, there is one species of flowers in a stunning garden. Then Blonca is motived to see more knowledge that she has not been accessed before - the more she reads, the more vibrant her garden is.
