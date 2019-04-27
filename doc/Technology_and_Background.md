@@ -96,4 +96,47 @@ http://cs.brown.edu/people/pfelzens/papers/detection.pdf
 
 https://arxiv.org/pdf/1807.05511.pdf 
 
+
+
+
+
+5. USABILITY TEST
+5.1. Testing scope and purposes
+To evaluate and improve the usability, three test sessions were set for different goals. Each session is planned to be one hour. Four classmates were invited to participate in the three tests based on the high-fidelity prototype that developed by the tool, “Modao”. The testers’ work was divided into four parts: proposing the tasks, observing their operations, recording the data and other issues. Everyone in our team was responsible for one of them.
+
+The goals of the three tests are as follows:
+Test 1: Test the app usability without any instruction.
+Test 2: Test the app usability with instructions.
+Test 3: Test the app usability in complex environment.
+
+5.2. Testing schedule
+The arrangements of the three sessions are as follows:
+Session	Time	Venue
+1	20 April 2019 (3-4pm)	Study Room in Main Library
+2	24 April 2019 (3-4pm)	Study Room in Main Library
+3	26 April 2019 (3-4pm)	Metro
+
+5.3. Testing methodology
+The procedures of the three testing sessions are similar. Firstly, we briefly introduced the tasks to complete and some test rules. Secondly, all the participants had 5 minutes to become familiar with the prototype. In test 1 and 3, this procedure was achieved by participants’ free clicking. In test 2, a video about the detailed instructions was showed to them.
+
+Then we got on to the formal test part. Every participant would wear a headset. Our team asked them to complete several tasks via headset, such as:
+a. Now, you want to select a popular term to see its knowledge graph.
+b. Now, you want to acquire the knowledge graph of this object. (The questioner would point to the mouse/laptop/etc.)
+c. Now, you want to let the system to select any topic for you to explore the knowledge graph.
+d. Now, you want to search a specific term to get the knowledge graph.
+e. Now, you want to explore the nearby attractions by using knowledge graph.
+f. Now, you want to mark a term.
+g. Now, you want to find the term that you have marked.
+h. Now, you want to know which kinds of terms you have explored.
+
+The participants were requested to express their thought in the whole process, regardless of their using situation. For example, when the participant would like to click a button, he/she need to say, “I will click the xxx button”. Our team members did not give any help to them. The completion status, time consumed and the number of errors in the using process for each task were recorded. It cost around 30 minutes for this step.
+
+After the test, there was a questionnaire to collect the feedback. The items include:
+a. Easiness rating for each task.
+b. The overall satisfaction level about convenience.
+c. The overall satisfaction level about affordance.
+d. The overall satisfaction level about feedback.
+e. The overall satisfaction level about appearance.
+
+
  
